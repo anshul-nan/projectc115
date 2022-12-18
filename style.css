@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(210, 210, 223);
+}
+
+.header_div
+{
+    background-color: rgb(145, 121, 121);
+    color: white;
+    padding-left:500px ;
+}
+
+.copy_right_footer
+{
+    padding-top:30px;
+    background-color: white;
+}
